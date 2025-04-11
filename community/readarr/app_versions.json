@@ -9,7 +9,7 @@
             "normalize/ixVolume",
             "normalize/acl"
         ],
-        "human_version": "0.3.32.2587_1.2.25",
+        "human_version": "0.4.13.2760_1.2.25",
         "version": "1.2.25",
         "chart_metadata": {
             "name": "readarr",
@@ -20,7 +20,7 @@
             "type": "application",
             "version": "1.2.25",
             "apiVersion": "v2",
-            "appVersion": "0.3.32.2587",
+            "appVersion": "0.4.13.2760",
             "kubeVersion": ">=1.16.0-0",
             "maintainers": [
                 {
